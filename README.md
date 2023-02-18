@@ -12,7 +12,7 @@ Import the lending_data csv file that was given to us.  We were asked to put tha
 ## Predict Performane
 Predict our thoughts on what would perform better.
 
-    I beleive that the Logistic Regression will be a better model will b emore accurate predictor then the Random Forest Classifer.  This data setcontains all numeric data, so that should work to the advantage of the Logistic Regression.  There are several different columns contining different features; which I believe is what the Random Forest Classifiers is better at.  But I don't feel that the number of features is enough to justify its used.  I also believe that the Logistic Regression model will aid in less overfitting in the end.
+I beleive that the Logistic Regression will be a better model will be more accurate predictor then the Random Forest Classifer.  This data setcontains all numeric data, so that should work to the advantage of the Logistic Regression.  There are several different columns contining different features; which I believe is what the Random Forest Classifiers is better at.  But I don't feel that the number of features is enough to justify its used.  I also believe that the Logistic Regression model will aid in less overfitting in the end. 
 
 ## Split to test and training
 Create our X values; and our Y value (Loan_Status).
