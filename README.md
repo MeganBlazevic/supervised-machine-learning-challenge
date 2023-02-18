@@ -30,4 +30,4 @@ I was incorrect.  The Random Forest Classifer model trained and tested at a high
 ## My Challenges
 Once I got the flow, this module, was straight forward; as I had to just fit the numbers.  This modeling is easy, once you have your X and Y determined. 
 
-My struggles are choosing the random state number; which I believe doesn't make much of a difference. Along with assigning the max-iter for the logistic regression and the n-estimator for the random forest classifer. I chose larger numbers for this as my data set contraing more than 77K rows of data. 
+My struggles are choosing the random state number; which I believe doesn't make much of a difference. Along with assigning the max-iter for the logistic regression and the n-estimator for the random forest classifer. I choose larger numbers for this as my data set contraing more than 77K rows of data. 
